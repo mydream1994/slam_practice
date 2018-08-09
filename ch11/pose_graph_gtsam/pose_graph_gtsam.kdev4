@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=pose_graph_gtsam
